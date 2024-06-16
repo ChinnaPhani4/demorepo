@@ -1,1 +1,3 @@
-New line in file2 of demo repo 
+New line in file2 of demo repo
+
+adding new lines to see flow code compare
